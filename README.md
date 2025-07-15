@@ -1,4 +1,4 @@
-# 🫀 ECG Classification & Anomaly Detection with LSTM & Explainable AI (XAI)
+#  ECG Classification & Anomaly Detection with LSTM & Explainable AI (XAI)
 
 This project focuses on detecting abnormal ECG patterns using an LSTM-based deep learning model, trained on real-world physiological signals from the PhysioNet dataset. It further applies **Explainable AI** (XAI) techniques to visualize and interpret model predictions, providing transparency and trust—especially critical for medical applications.
 
