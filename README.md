@@ -68,6 +68,10 @@ Red highlights show which parts of the ECG the model found important
 
 Helps verify if the model relies on relevant medical patterns
 
+![Alt_text](/Outputs/classwise-avg-saliency.png)
+
+This graph shows Class-wise saliency
+
 ## 🛠️ Tech Stack
 ```
 Python (3.11+)
