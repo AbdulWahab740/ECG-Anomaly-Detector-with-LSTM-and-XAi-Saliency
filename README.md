@@ -87,5 +87,3 @@ Machine Learning & AI Enthusiast
 
 
 ---
-
-Would you like a `requirements.txt` and `train.py` template to go with it? Or shall we move forward with building a **Streamlit UI** for this model?
