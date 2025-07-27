@@ -1,4 +1,4 @@
-# [HuggingFace Live Link](https://huggingface.co/spaces/AbdulWahab70/ECG-Classification-Anomaly)
+[HuggingFace Live Link](https://huggingface.co/spaces/AbdulWahab70/ECG-Classification-Anomaly)
 
 #  ECG Classification & Anomaly Detection with LSTM & Explainable AI (XAI)
 
