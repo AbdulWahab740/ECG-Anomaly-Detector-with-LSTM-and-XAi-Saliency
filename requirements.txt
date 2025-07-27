@@ -1,4 +1,4 @@
-tensorflow-cpu==2.9.3
+tensorflow
 streamlit 
 matplotlib
 wfdb
@@ -6,4 +6,4 @@ pandas
 seaborn
 scipy
 scikit-learn
-tf-keras-vis==0.8.6
+tf-keras-vis
