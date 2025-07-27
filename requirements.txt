@@ -1,5 +1,5 @@
-tensorflow
-streamlit
+tensorflow-cpu==2.9.3
+streamlit 
 matplotlib
 wfdb
 pandas
